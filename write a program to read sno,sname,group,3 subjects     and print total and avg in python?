@@ -1,0 +1,10 @@
+sno=int(input('enter sno: '))
+sname=input('enter sname: ')
+group=input('enter group: ')
+S1=float(input('enter S1 marks: '))
+S2=float(input('enter S2 marks: '))
+S3=float(input('enter S3 marks: '))
+total=S1+S2+S3
+average=total/3
+print("total:",total)
+print("average:",average)
